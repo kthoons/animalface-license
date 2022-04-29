@@ -1,9 +1,14 @@
 p {
 	margin-left:10px;
+	margin-right:10px;
 }
+
+
 .title {
 	font-weight: bold;
 	font-size: 15px;
+	text-overflow:ellipsis;
+	-webkit-text-size-adjust: 300%;
 }
 
 .btn-close {
